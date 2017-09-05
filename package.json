@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A Basic Timestamp Microservice in Node-Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamrkcheers/Timestamp-Microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamrkcheers/Timestamp-Microservice/issues"
+  },
+  "homepage": "https://github.com/iamrkcheers/Timestamp-Microservice#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "strftime": "^0.10.0"
+  }
+}
